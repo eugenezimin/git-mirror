@@ -29,7 +29,7 @@ This Bash script allows you to clone a Git repository as a mirror and then conve
 ## Example
 
 ```bash
-./script_name.sh https://github.com/username/repo.git /path/to/destination
+./git-mirror.sh https://github.com/username/repo.git /path/to/destination
 ```
 
 ## Notes
