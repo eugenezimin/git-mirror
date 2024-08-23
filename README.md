@@ -10,7 +10,7 @@ This Bash script allows you to clone a Git repository as a mirror and then conve
 ## Usage
 
 ```bash
-./script_name.sh <source_repo_url> <destination_directory>
+./git-mirror.sh <source_repo_url> <destination_directory>
 ```
 
 ### Parameters:
